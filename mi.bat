@@ -1,0 +1,1 @@
+@py.exe H:\\code\\python\\automate-the-boring-stuff\\mapIt.py %*

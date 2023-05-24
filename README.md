@@ -2,4 +2,4 @@
 
 ## Python Projects from the book
 
-### Written by [Al Al Sweigart](https://alsweigart.com/)
+### [Automate the Boring Stuff](https://automatetheboringstuff.com/) Written by [Al Al Sweigart](https://alsweigart.com/)
